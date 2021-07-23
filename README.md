@@ -4,4 +4,4 @@ What is the probability that a random English surname can be written using the s
 
 This question was suggested to me by Prof. Tomislav Došlić, who also provided a list of almost all surnames (with their frequencies) in UK.
 
-See "Chem-words.ipynb" for the answer.
+See the Python 3 notebook "Chem-words.ipynb" for the answer.

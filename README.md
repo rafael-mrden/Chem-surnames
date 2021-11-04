@@ -1,4 +1,4 @@
-# Chem-surnames
+# Chem-words
 
 What is the probability that a random English surname can be written using the symbols for chemical elements? (E.g., Clark = ClArK, which is Chlorine + Argon + Potassium.)
 
